@@ -9,3 +9,5 @@ name = gets.chomp
 puts "Hello, #{name}!"
 
 puts "Shall we Play a Game?"
+
+puts "1. Tic Tac Toe"
