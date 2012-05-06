@@ -16,3 +16,5 @@ puts "2. Chess"
 
 puts "3. Global Thermonuclear War"
 
+puts "4. StarCraft 2"
+
