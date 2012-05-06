@@ -20,3 +20,14 @@ puts "4. StarCraft 2"
 
 puts "5. Soul Caliber"
 
+choice = gets.chomp
+
+if choice == "3"
+
+puts "BOOM!"
+
+else
+
+puts "I don't want to play that game"
+
+end
