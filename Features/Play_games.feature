@@ -29,3 +29,8 @@ Scenario: Verify the choices are showing up
 Given the application is running
 Given I type ""
 Then the output should contain "4. StarCraft 2"
+
+Scenario: Verify the choices are showing up
+Given the application is running
+Given I type ""
+Then the output should contain "5. Soul Caliber"
