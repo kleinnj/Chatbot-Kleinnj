@@ -18,3 +18,5 @@ puts "3. Global Thermonuclear War"
 
 puts "4. StarCraft 2"
 
+puts "5. Soul Caliber"
+
