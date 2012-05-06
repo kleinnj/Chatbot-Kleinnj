@@ -18,3 +18,9 @@ Scenario: Verify the choices are showing up
 Given the application is running
 Given I type ""
 Then the output should contain "2. Chess"
+
+Scenario: Verify the choices are showing up
+Given the application is running
+Given I type ""
+Then the output should contain "3. Global Thermonuclear War"
+
