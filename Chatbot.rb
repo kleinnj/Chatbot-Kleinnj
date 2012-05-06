@@ -13,3 +13,6 @@ puts "Shall we Play a Game?"
 puts "1. Tic Tac Toe"
 
 puts "2. Chess"
+
+puts "3. Global Thermonuclear War"
+
